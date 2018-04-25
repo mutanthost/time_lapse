@@ -1,4 +1,4 @@
-
+![Image ](/images/lightning.jpg)
 
 
 # time_lapse
