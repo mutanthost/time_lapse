@@ -14,7 +14,7 @@ A collection of scripts, et cetera to combine stills form a simple cam to 1920 x
 	The MakeMovie.sh then flattens the above directory, removes the empty folders and creates a sorted list
 	to then feed into mencoder, which then combines the still images into a .avi
 	
-	I have tried to use the CLI of Handbrake, bit prefer to do the above two scripts on the 16.04 laptop
+	I have tried to use the CLI of Handbrake, but prefer to do the above two scripts on the 16.04 laptop
 	then sftp the result over to my primary Mac and use the Handbrake GUI to convert the raw .avi to h.264
 	Also, the Handbrake gui (faster and more gui controls) lets me select a smooth, constant bitrate
 	then use iMovie with an external drive for finishing the items.
