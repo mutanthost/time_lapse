@@ -2,7 +2,7 @@
 "_timelapse_sandbox"
 (https://goo.gl/w2dWwa)
 # time_lapse
-A collection of scripts, et cetera to combine stills form a simple cam to 1920 x 1080 eye candy
+A collection of scripts, et cetera to combine stills from a simple cam to 1920 x 1080 eye candy
 	This can be accomplished with the most simplex of cameras and setups
 	I just happen to be using a Dlink, and have set it to capture a frame every 10 seconds.
 	Thus, 6 per minute, 360 an hour = 8640 per day.
