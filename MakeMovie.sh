@@ -20,7 +20,7 @@ echo "cleaning empty directories"
 find ./ -depth -type d -exec rmdir {} +
 sleep 2
 echo "find and clean empty files"
-find ./ -type f -size 0
+find ./ -type f -size 0 {} +
 echo "creating list of descending files"
 ls -1v |grep jpg > files.txt
 # echo "trying out ffmpeg"
