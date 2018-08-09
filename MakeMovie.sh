@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Yes, I know that this thread is over a year old. I've been using this for over 2 years though, and it works great with 10,000+ images:
 
 # 1080p@24fps, no sound
